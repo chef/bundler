@@ -1,3 +1,7 @@
+## 1.10.7.depsolverfix.0 (2015-09-17)
+
+This is a patch on top of 1.10.6 to resolve #3985.
+
 ## 1.10.6 (2015-07-22)
 
 Workarounds:
